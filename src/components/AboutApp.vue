@@ -30,6 +30,9 @@
             <div class="skill-single">
                 <Skill title="VUEX" :level="1"/>
             </div>
+            <div class="skill-single">
+                <Skill title="Git" :level="1"/>
+            </div>
             
         </div>
     </div>
