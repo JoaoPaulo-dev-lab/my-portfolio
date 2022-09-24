@@ -1,0 +1,62 @@
+.text-accent{color: #f4a952;}
+
+.text-primary{color: #fff;}
+
+.text-secundary{color: #ccc;}
+
+.text-bolder{font-weight: bolder;}
+
+.text-bold{font-weight: bold;}
+
+.bg-accent{background-color: #f4a952;}
+
+.bg-primary{background-color: rgb(39, 39, 39);}
+
+.bg-secundary{background-color: rgb(20, 20, 20);}
+
+.bg-accent2{background-color: rgb(42, 42, 42);}
+
+.bg-accent3{background-color: rgb(53, 52, 52);}
+
+.title-section{font-size: 14px;}
+
+.subtitle-section{font-size: 20px;}
+
+.text-description{font-size: 12px; text-align: justify;}
+
+.link-action{
+    border-radius: 22px;
+    font-size: 13px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    padding: 5px 20px;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.flex{display: flex;}
+
+.column{flex-direction: column;}
+
+.nowrap{flex-wrap: nowrap;}
+
+.items-center{align-items: center;}
+
+.items-start{align-items: flex-start;}
+
+.items-end{align-items: flex-end;}
+
+.justify-center{justify-content: center;}
+
+.justify-between{justify-content: space-between;}
+
+.justify-around{justify-content: space-around;}
+
+.row-accent{
+    width: 30px;
+    height: 2px;
+    background-color: #f4a952;
+    margin-right: 7px;
+}
