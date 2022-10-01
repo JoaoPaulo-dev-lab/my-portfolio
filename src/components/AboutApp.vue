@@ -10,10 +10,10 @@
         </div>
         <div class="skills bg-accent3 flex">
             <div class="skill-single">
-                <Skill title="Html5" :level="4"/>
+                <Skill title="Html 5" :level="4"/>
             </div>
             <div class="skill-single">
-                <Skill title="CSS 3" :level="3"/>
+                <Skill title="Css 3" :level="3"/>
             </div>
              <div class="skill-single">
                 <Skill title="JavaScript" :level="2"/>
@@ -28,7 +28,7 @@
                 <Skill title="Spectre" :level="2"/>
             </div>
             <div class="skill-single">
-                <Skill title="VUEX" :level="1"/>
+                <Skill title="Vuex" :level="1"/>
             </div>
             <div class="skill-single">
                 <Skill title="Git" :level="1"/>
