@@ -53,7 +53,7 @@ export default {
 <style>
     .about{
         width: 100%;
-        padding: 30px 3%;
+        padding: 30px 3% 50px 3%;
     }
     .about-box{
         width: 100%;
