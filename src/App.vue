@@ -6,7 +6,6 @@
       <AboutApp/>
       <ServicesApp/>
       <PortfolioApp/>
-      
     </div>
 </template>
 
