@@ -5,7 +5,6 @@
         <div v-for="item in level" :key="item" class="icon-level text-accent">
             <i class="fa fa-star"></i>
         </div>
-        
     </div>
   </div>
 </template>
