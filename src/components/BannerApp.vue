@@ -2,7 +2,7 @@
   <section class="banner flex justify-around nowrap items-center">
     <div class="flex justify-center  column">
         <div>
-            <p class="text-secundary">Existem muitas variações </p>
+            <p class="text-secundary">Hello, My name is</p>
         </div>
         <div>
             <h1 class="text-bolder text-primary">João Paulo Maciel</h1>
@@ -17,7 +17,7 @@
     </div>
     <div class="avatar-container">
         <div class="border-accent">
-            <img src="../assets/images/img1.jpg" alt="">
+            <img src="../assets/images/img2.jpg" alt="">
         </div>
     </div>
   </section>

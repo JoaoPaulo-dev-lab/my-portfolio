@@ -1,7 +1,7 @@
 <template>
     <header class="header flex items-center justify-between bg-primary">
         <div class="flex items-center">
-            <div class="header-avatar bg-accent3"></div>
+            <img class="header-avatar bg-accent3" src="../assets/images/img2.jpg">
             <span class="title-section text-accent">João Paulo</span>
         </div>
         <div class="menu-desktop">
