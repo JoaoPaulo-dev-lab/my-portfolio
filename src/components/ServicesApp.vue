@@ -7,7 +7,7 @@
         <ServiceSingle title="User Interface" icon="fa fa-tablet" description="Interfaces with modern and responsive design"/>
         <ServiceSingle title="Creative Design" icon="fa fa-code" description="Clean and easy-to-understand code, which facilitates future maintenance."/>
         <ServiceSingle title="Creative Design" icon="fa fa-code" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e"/>
-        <ServiceSingle title="Creative Design" icon="fa fa-code" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e"/>
+        <ServiceSingle title="Creative Design" icon="fa fa-code" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica"/>
     </div>
   </section>
 </template>
