@@ -5,7 +5,7 @@
         <div class="description flex column">
             <p class="text-description text-secundary">My name is João Paulo Maciel. I'm a front-end developer and live in Arcoverde, in the state of Pernambuco, Brazil. I am looking for an opportunity to start my career as a junior developer. I started my studies in programming at the end of 2021 and decided to dedicate myself to technology in April 2022, after being delighted with web development. Every day I learn something different, following tips from more experienced developers. I'm willing to learn new technologies and hone my skills.</p>
             <div>
-                <a href="" class="link-action bg-accent">Download CV</a>
+                <a href="https://my-portfolio-dev-a4a9c.web.app/curriculo.pdf" class="link-action bg-accent" download="curriculo.pdf">Download CV</a>
             </div>
         </div>
         <div class="skills bg-accent3 flex">
