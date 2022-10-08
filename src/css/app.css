@@ -62,3 +62,15 @@
     background-color: #f4a952;
     margin-right: 7px;
 }
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.position-relative{
+    position: relative;
+}
+
+.position-absolute{
+    position: absolute;
+}

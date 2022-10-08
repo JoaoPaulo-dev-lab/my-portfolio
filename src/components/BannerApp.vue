@@ -1,5 +1,5 @@
 <template>
-  <section class="banner flex justify-around nowrap items-center">
+  <section class="banner flex justify-around nowrap items-center" id="home">
     <div class="flex justify-center  column">
         <div>
             <p class="text-secundary">Hello, My name is</p>
@@ -11,7 +11,7 @@
             <div class="row-accent"></div>
             <p class="text-secundary">Front-end Developer</p>
         </div>
-        <div>
+        <div class="link-action-position">
             <a href="" class="link-action bg-accent">Know More</a>
         </div>
     </div>
@@ -62,5 +62,35 @@ export default {
         height: 100%;
         border-radius: 50%;
         border: 8px solid rgba(0, 0, 0, 0);
+    }
+
+    @media screen and (max-width: 940px) {
+        .banner{
+        height: auto;
+        padding: 50px 3%;
+        }
+
+        .avatar-container{
+            display: none;
+        }
+
+        .link-action-position{
+            width: 100%;
+            text-align: center;
+        }
+
+        
+    }
+
+    @media screen and (max-width: 610px) {
+        .banner h1{
+        font-size: 40px;
+       }
+    }
+
+    @media screen and (max-width: 405px) {
+        .banner h1{
+        font-size: 30px;
+    }
     }
 </style>

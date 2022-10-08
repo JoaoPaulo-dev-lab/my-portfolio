@@ -33,4 +33,11 @@ export default {
         margin-right: 3px;
     }
 
+    @media screen and (max-width: 500px){
+       .skill-single2 {
+            align-items: center;
+            padding-top: 15px;
+       }
+    }
+
 </style>

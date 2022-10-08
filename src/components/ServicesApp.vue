@@ -1,6 +1,6 @@
 <template>
   <section class="services-app bg-accent3">
-    <SectionTitle title="My Services" subtitle="What Can I Do"/>
+    <SectionTitle title="My Services" subtitle="What Can I Do" idNav="services"/>
     <div class="container-services flex wrap justify-between">
         <ServiceSingle title="Creative Design" icon="fa fa-pencil" description="Web pages with styles that match content"/>
         <ServiceSingle title="Branding" icon="fa fa-flag" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e"/>

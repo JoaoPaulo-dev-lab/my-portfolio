@@ -57,4 +57,38 @@ export default {
  .portfolio-single i{
     margin-right: 6px;
  }
+
+@media screen and (max-width: 1000px){
+    .portfolio-single{
+    width: 47%;
+    height: 280px;
+ }
+
+ .portfolio-single:hover{
+     width: 48%;
+ }
+}
+
+@media screen and (max-width: 700px) {
+    .portfolio-single{
+    width: 100%;
+    height: 350px;
+}
+
+    .portfolio-single:hover{
+     width: 100%;
+ }
+}
+
+
+@media screen and (max-width: 450px) {
+    .portfolio-single{
+    width: 100%;
+    height: 280px;}
+
+    .portfolio-single:hover{
+     width: 100%;
+ }
+}
+
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex column">
+  <div class="flex column" :id="idNav">
     <div class="flex items-center nowrap">
         <div class="row-accent"></div>
         <p class="text-primary title-section">{{title}}</p>
@@ -15,7 +15,8 @@ export default {
     name: 'SectionTitle',
     props: {
         title: String,
-        subtitle: String
+        subtitle: String,
+        idNav: String
     }
 }
 </script>

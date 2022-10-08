@@ -44,4 +44,10 @@ export default {
         text-align: center;
         margin-top: 7px;
     }
+
+    @media screen and (max-width: 550px){
+        .service-single{
+        width: 48%;
+     }
+    }
 </style>
