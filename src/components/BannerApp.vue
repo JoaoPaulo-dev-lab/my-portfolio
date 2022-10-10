@@ -2,14 +2,14 @@
   <section class="banner flex justify-around nowrap items-center" id="home">
     <div class="flex justify-center  column">
         <div>
-            <p class="text-secundary">Hello, My name is</p>
+            <p class="text-secundary">Olá, meu nome é</p>
         </div>
         <div>
             <h1 class="text-bolder text-primary">João Paulo Maciel</h1>
         </div>
         <div class="flex nowrap items-center">
             <div class="row-accent"></div>
-            <p class="text-secundary">Front-end Developer</p>
+            <p class="text-secundary">Desenvolvedor Front-end</p>
         </div>
         <div class="link-action-position">
             <a href="https://github.com/JoaoPaulo-dev-lab" class="link-action bg-accent">Meu GitHub</a>

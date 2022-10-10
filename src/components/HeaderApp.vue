@@ -11,10 +11,10 @@
                     <a class="text-primary" href="#home">Home</a>
                 </li> -->
                 <li>
-                    <a class="text-primary" href="#about">About</a>
+                    <a class="text-primary" href="#about">Sobre</a>
                 </li>
                 <li>
-                    <a class="text-primary" href="#services">Services</a>
+                    <a class="text-primary" href="#services">Serviços</a>
                 </li>
                 <li>
                     <a class="text-primary" href="#portfolio">Portfólio</a>
@@ -34,10 +34,10 @@
                     <a class="text-primary flex justify-center" href="#home">Home</a>
                 </li> -->
                 <li>
-                    <a class="text-primary flex justify-center" href="#about">About</a>
+                    <a class="text-primary flex justify-center" href="#about">Sobre</a>
                 </li>
                 <li>
-                    <a class="text-primary flex justify-center" href="#services">Services</a>
+                    <a class="text-primary flex justify-center" href="#services">Serviços</a>
                 </li>
                 <li>
                     <a class="text-primary flex justify-center" href="#portfolio">Portfólio</a>
@@ -143,9 +143,6 @@ header .menu-mobile{
     color: #edb45f;
 }
 
-.menu-mobile nav{
-  
-}
 .menu-mobile ul {
     width: 100%;
     padding: 0px;

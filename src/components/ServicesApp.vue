@@ -1,13 +1,10 @@
 <template>
   <section class="services-app bg-accent3">
-    <SectionTitle title="My Services" subtitle="What Can I Do" idNav="services"/>
+    <SectionTitle title="Meus Serviços" subtitle="O que eu posso fazer?" idNav="services"/>
     <div class="container-services flex wrap justify-between">
-        <ServiceSingle title="Creative Design" icon="fa fa-pencil" description="Web pages with styles that match content"/>
-        <ServiceSingle title="Branding" icon="fa fa-flag" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e"/>
-        <ServiceSingle title="User Interface" icon="fa fa-tablet" description="Interfaces with modern and responsive design"/>
-        <ServiceSingle title="Creative Design" icon="fa fa-code" description="Clean and easy-to-understand code, which facilitates future maintenance."/>
-        <ServiceSingle title="Creative Design" icon="fa fa-code" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e"/>
-        <ServiceSingle title="Creative Design" icon="fa fa-code" description="Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica"/>
+        <ServiceSingle title="Design Criativo" icon="fa fa-pencil" description="Design criativo que combina com o conteúdo da Página Web"/>
+        <ServiceSingle title="Interface do Usuário" icon="fa fa-tablet" description="Interface moderna com design criativo e responsivo"/>
+        <ServiceSingle title="Código Limpo" icon="fa fa-code" description="Código limpo e de fácil entendimento, o que facilita manutenção futura."/>
     </div>
   </section>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <section class="portfolio-app bg-accent2">
-    <SectionTitle title="Portfolio" subtitle="My Projects" idNav="portfolio"/>
+    <SectionTitle title="Portfólio" subtitle="Meus Projetos" idNav="portfolio"/>
     <div class="container-portfolio flex wrap justify-between">
         <PortfolioSingle link="https://www.google.com" path="https://i.pinimg.com/originals/70/98/98/709898ad1c77ebfaf579ff99268324ee.png" title="Clone TikTok"/>
         <PortfolioSingle link="https://www.facebook.com" :path="img2" title="Clone TikTok"/>

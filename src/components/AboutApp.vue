@@ -1,9 +1,9 @@
 <template>
   <section class="bg-accent2 about">
-    <SectionTitle title="About Me" subtitle="Who am I" idNav="about"/>
+    <SectionTitle title="Sobre mim" subtitle="Quem sou eu?" idNav="about"/>
     <div class="about-box flex justify-between">
         <div class="description flex column">
-            <p class="text-description text-secundary">My name is João Paulo Maciel. I'm a front-end developer and live in Arcoverde, in the state of Pernambuco, Brazil. I am looking for an opportunity to start my career as a junior developer. I started my studies in programming at the end of 2021 and decided to dedicate myself to technology in April 2022, after being delighted with web development. Every day I learn something different, following tips from more experienced developers. I'm willing to learn new technologies and hone my skills.</p>
+            <p class="text-description text-secundary">Meu nome é João Paulo Maciel. Sou desenvolvedor front-end e moro em Arcoverde, no estado de Pernambuco. Estou procurando uma oportunidade para começar minha carreira como desenvolvedor junior. Comecei meus estudos em programação no final de 2021 e decidi me dedicar à tecnologia em Abril de 2022, depois de me encantar com o desenvolvimento web. Todos os dias aprendo algo diferente e aprimoro minhas habilidades, seguindo dicas de desenvolvedores mais experientes. Estou disposto a aprender novas tecnologias e encarar desafios.</p>
             <div>
                 <a href="https://my-portfolio-dev-a4a9c.web.app/curriculo.pdf" class="link-action bg-accent" download="curriculo.pdf">Download CV</a>
             </div>
