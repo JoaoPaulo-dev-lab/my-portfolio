@@ -12,7 +12,7 @@
             <p class="text-secundary">Desenvolvedor Front-end</p>
         </div>
         <div class="link-action-position">
-            <a href="https://github.com/JoaoPaulo-dev-lab" class="link-action bg-accent">Meu GitHub</a>
+            <a href="https://github.com/JoaoPaulo-dev-lab" class="link-action bg-accent text-bold">Meu GitHub</a>
         </div>
     </div>
     <div class="avatar-container">

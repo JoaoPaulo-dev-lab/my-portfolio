@@ -6,6 +6,7 @@
       <AboutApp/>
       <ServicesApp/>
       <PortfolioApp/>
+      <FooterApp/>
     </div>
 </template>
 
@@ -16,13 +17,14 @@ import AboutApp from './components/AboutApp.vue'
 import ServicesApp from './components/ServicesApp.vue'
 import PortfolioApp from './components/PortfolioApp.vue'
 import ContatosApp from './components/ContatosApp.vue'
+import FooterApp from './components/FooterApp.vue'
 import '@fortawesome/fontawesome-free/css/all.css'
 import './css/app.css'
 
 export default {
   name: 'App',
   components: {
-    HeaderApp, BannerApp, AboutApp, ServicesApp, PortfolioApp, ContatosApp
+    HeaderApp, BannerApp, AboutApp, ServicesApp, PortfolioApp, ContatosApp, FooterApp
   }
 }
 </script>

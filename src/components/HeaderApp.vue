@@ -11,13 +11,13 @@
                     <a class="text-primary" href="#home">Home</a>
                 </li> -->
                 <li>
-                    <a class="text-primary" href="#about">Sobre</a>
+                    <a class="text-primary text-bold" href="#about">Sobre</a>
                 </li>
                 <li>
-                    <a class="text-primary" href="#services">Serviços</a>
+                    <a class="text-primary text-bold" href="#services">Serviços</a>
                 </li>
                 <li>
-                    <a class="text-primary" href="#portfolio">Portfólio</a>
+                    <a class="text-primary text-bold" href="#portfolio">Portfólio</a>
                 </li>
                 
             </ul>
