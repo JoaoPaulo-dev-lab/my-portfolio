@@ -2,10 +2,9 @@
   <section class="portfolio-app bg-accent2">
     <SectionTitle title="Portfólio" subtitle="Meus Projetos" idNav="portfolio"/>
     <div class="container-portfolio flex wrap justify-between">
-        <PortfolioSingle link="https://www.google.com" path="https://i.pinimg.com/originals/70/98/98/709898ad1c77ebfaf579ff99268324ee.png" title="Clone TikTok"/>
-        <PortfolioSingle link="https://www.facebook.com" :path="img2" title="Clone TikTok"/>
-        <PortfolioSingle path="https://i.pinimg.com/originals/70/98/98/709898ad1c77ebfaf579ff99268324ee.png" title="Clone TikTok"/>
-        <PortfolioSingle path="https://i.pinimg.com/originals/70/98/98/709898ad1c77ebfaf579ff99268324ee.png" title="Clone TikTok"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/clone-amazon" :path="amazon" title="Clone Prime Video"/>
+        <PortfolioSingle :path="lista" title="ToDoList"/>
+        <PortfolioSingle :path="pizzaria" title="Peça sua pizza"/>
     </div>
   </section>
 </template>
@@ -13,14 +12,17 @@
 <script>
 import PortfolioSingle from './PortfolioSingle.vue'
 import SectionTitle from './SectionTitle.vue'
-import img2 from '../assets/images/img2.jpg'
+import amazon from '../assets/images/amazon.jpg'
+import lista from '../assets/images/lista.png'
+import pizzaria from '../assets/images/pizzaria.png'
+
 
 export default {
     name: 'PortfolioApp',
     components: {PortfolioSingle, SectionTitle},
     data(){
         return{
-            img2
+            amazon, lista, pizzaria
         }
     }
 }
