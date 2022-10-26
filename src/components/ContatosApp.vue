@@ -6,7 +6,7 @@
     <a class="bg-primary text-primary flex items-center justify-center" href="https://www.instagram.com/papaulo97">
         <i class="fab fa-instagram"></i>
     </a>
-    <a class="bg-primary text-primary flex items-center justify-center" href="">
+    <a class="bg-primary text-primary flex items-center justify-center" href="https://www.linkedin.com/in/jo%C3%A3o-paulo-maciel-do-nascimento-782857209/">
         <i class="fab fa-linkedin"></i>
     </a>
     <a class="bg-primary text-primary flex items-center justify-center" href="mailto:paulo.j7.jp89@gmail.com">
