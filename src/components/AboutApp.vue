@@ -5,7 +5,7 @@
         <div class="description flex column">
             <p class="text-description text-secundary">Meu nome é João Paulo Maciel. Sou desenvolvedor front-end e moro em Arcoverde, no estado de Pernambuco. Estou procurando uma oportunidade para começar minha carreira como desenvolvedor junior. Comecei meus estudos em programação no final de 2021 e decidi me dedicar à tecnologia em Abril de 2022, depois de me encantar com o desenvolvimento web. Todos os dias aprendo algo diferente e aprimoro minhas habilidades, seguindo dicas de desenvolvedores mais experientes. Estou disposto a aprender novas tecnologias e encarar desafios.</p>
             <div>
-                <a href="https://my-portfolio-dev-a4a9c.web.app/curriculo.pdf" class="link-action bg-accent text-bold" download="curriculo.pdf">Download CV</a>
+                <a href="https://my-portfolio-dev-a4a9c.web.app/curriculo2.pdf" class="link-action bg-accent text-bold" download="curriculo2.pdf">Baixar CV</a>
             </div>
         </div>
         <div class="skills bg-accent3 flex">
