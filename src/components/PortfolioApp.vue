@@ -3,8 +3,8 @@
     <SectionTitle title="Portfólio" subtitle="Meus Projetos" idNav="portfolio"/>
     <div class="container-portfolio flex wrap justify-between">
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/clone-amazon" :path="amazon" title="Clone Prime Video"/>
-        <PortfolioSingle :path="lista" title="ToDoList"/>
-        <PortfolioSingle :path="pizzaria" title="Peça sua pizza"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/to-do-list-router" :path="lista" title="ToDoList"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/pizzaria" :path="pizzaria" title="Peça sua pizza"/>
     </div>
   </section>
 </template>
