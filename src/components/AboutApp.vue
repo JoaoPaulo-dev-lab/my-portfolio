@@ -33,6 +33,9 @@
             <div class="skill-single">
                 <Skill title="Git" :level="2"/>
             </div>
+            <div class="skill-single">
+                <Skill title="TypeScript" :level="1"/>
+            </div>
             
         </div>
     </div>
