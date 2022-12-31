@@ -16,7 +16,7 @@
                 <Skill title="Css 3" :level="3"/>
             </div>
              <div class="skill-single">
-                <Skill title="JavaScript" :level="2"/>
+                <Skill title="JavaScript" :level="3"/>
             </div>
             <div class="skill-single">
                 <Skill title="Vue JS" :level="3"/>
@@ -31,7 +31,7 @@
                 <Skill title="Vuex" :level="1"/>
             </div>
             <div class="skill-single">
-                <Skill title="Git" :level="1"/>
+                <Skill title="Git" :level="2"/>
             </div>
             
         </div>
