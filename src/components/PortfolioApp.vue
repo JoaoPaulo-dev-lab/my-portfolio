@@ -5,6 +5,8 @@
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/clone-amazon" :path="amazon" title="Clone Prime Video"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/to-do-list-router" :path="lista" title="ToDoList"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/pizzaria" :path="pizzaria" title="Peça sua pizza"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/form" :path="formulario" title="Formulário com Validação"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/galeria-torcedor" :path="galeria" title="Galeria do Torcedor"/>
     </div>
   </section>
 </template>
@@ -15,6 +17,8 @@ import SectionTitle from './SectionTitle.vue'
 import amazon from '../assets/images/amazon.jpg'
 import lista from '../assets/images/lista.png'
 import pizzaria from '../assets/images/pizzaria.png'
+import formulario from '../assets/images/formulario.png'
+import galeria from '../assets/images/galeria.png'
 
 
 export default {
@@ -22,7 +26,7 @@ export default {
     components: {PortfolioSingle, SectionTitle},
     data(){
         return{
-            amazon, lista, pizzaria
+            amazon, lista, pizzaria, formulario, galeria
         }
     }
 }
