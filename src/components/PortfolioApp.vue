@@ -7,6 +7,7 @@
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/pizzaria" :path="pizzaria" title="Peça sua pizza"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/form" :path="formulario" title="Formulário com Validação"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/galeria-torcedor" :path="galeria" title="Galeria do Torcedor"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/controle-financeiro" :path="financeiro" title="Controle Financeiro"/>
     </div>
   </section>
 </template>
@@ -19,6 +20,7 @@ import lista from '../assets/images/lista.png'
 import pizzaria from '../assets/images/pizzaria.png'
 import formulario from '../assets/images/formulario.png'
 import galeria from '../assets/images/galeria.png'
+import financeiro from '../assets/images/controle-financeiro.png'
 
 
 export default {
@@ -26,7 +28,7 @@ export default {
     components: {PortfolioSingle, SectionTitle},
     data(){
         return{
-            amazon, lista, pizzaria, formulario, galeria
+            amazon, lista, pizzaria, formulario, galeria, financeiro
         }
     }
 }
