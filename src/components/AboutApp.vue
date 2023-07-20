@@ -22,16 +22,16 @@
                 <Skill title="Vue JS" :level="3"/>
             </div>
             <div class="skill-single">
-                <Skill title="Bootstrap" :level="2"/>
+                <Skill title="Bootstrap" :level="3"/>
             </div>
             <div class="skill-single">
-                <Skill title="Spectre" :level="2"/>
+                <Skill title="Spectre" :level="3"/>
             </div>
             <div class="skill-single">
                 <Skill title="Vuex" :level="2"/>
             </div>
             <div class="skill-single">
-                <Skill title="Git" :level="3"/>
+                <Skill title="Git" :level="4"/>
             </div>
             <div class="skill-single">
                 <Skill title="TypeScript" :level="3"/>
