@@ -32,7 +32,7 @@ export default {
 }
 
 .footer p{
-    font-size: 15px;
+    font-size: 16px;
 }
 
 </style>
