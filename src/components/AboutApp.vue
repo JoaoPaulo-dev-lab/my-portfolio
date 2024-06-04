@@ -13,7 +13,7 @@
                 <Skill title="Html 5" :level="5"/>
             </div>
             <div class="skill-single">
-                <Skill title="CSS 3" :level="3"/>
+                <Skill title="CSS 3" :level="4"/>
             </div>
              <div class="skill-single">
                 <Skill title="JavaScript" :level="3"/>
