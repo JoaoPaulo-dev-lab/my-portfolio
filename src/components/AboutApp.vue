@@ -15,7 +15,7 @@
             <div class="skill-single">
                 <Skill title="CSS 3" :level="4"/>
             </div>
-             <div class="skill-single">
+            <div class="skill-single">
                 <Skill title="JavaScript" :level="3"/>
             </div>
             <div class="skill-single">
@@ -28,6 +28,9 @@
                 <Skill title="Spectre" :level="3"/>
             </div>
             <div class="skill-single">
+                <Skill title="Tailwind CSS" :level="3"/>
+            </div>
+            <div class="skill-single">
                 <Skill title="Vuex" :level="2"/>
             </div>
             <div class="skill-single">
@@ -35,8 +38,7 @@
             </div>
             <div class="skill-single">
                 <Skill title="TypeScript" :level="3"/>
-            </div>
-            
+            </div>   
         </div>
     </div>
   </section>
