@@ -3,7 +3,7 @@
     <SectionTitle title="Portfólio" subtitle="Meus Projetos" idNav="portfolio"/>
     <div class="container-portfolio flex wrap justify-between">
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/clone-amazon" :path="amazon" title="Clone Prime Video"/>
-        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/to-do-list-vue" :path="lista" title="To-do List"/>
+        <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/to-do-list-new" :path="lista" title="To-do List"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/pizzaria" :path="pizzaria" title="Peça sua pizza"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/form" :path="formulario" title="Formulário com Validação"/>
         <PortfolioSingle link="https://github.com/JoaoPaulo-dev-lab/galeria-torcedor" :path="galeria" title="Galeria do Torcedor"/>
