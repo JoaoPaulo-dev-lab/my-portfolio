@@ -1,7 +1,6 @@
 <template>
   <div class="portfolio-single flex column" @click="openLink">
     <div class="bg" :style="{'background-image': `url('${path}')`}">
-
     </div>
     <div class="flex items-center">
         <i class="fa fa-circle text-accent"></i>

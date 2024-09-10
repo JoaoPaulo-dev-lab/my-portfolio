@@ -1,12 +1,12 @@
 <template>
   <div class="footer-app bg-secundary flex items-center justify-center">
-    <a class="bg-primary text-primary flex items-center justify-center" href="https://wa.me/5587996044082?text=Olá! Estou querendo entrar em contato com você.">
+    <a class="bg-primary text-primary flex items-center justify-center" target="_blank" href="https://wa.me/5587996044082?text=Olá! Estou querendo entrar em contato com você.">
         <i class="fab fa-whatsapp"></i>
     </a>
-    <a class="bg-primary text-primary flex items-center justify-center" href="https://www.instagram.com/papaulo97">
+    <a class="bg-primary text-primary flex items-center justify-center" target="_blank" href="https://www.instagram.com/papaulo97">
         <i class="fab fa-instagram"></i>
     </a>
-    <a class="bg-primary text-primary flex items-center justify-center" href="https://www.linkedin.com/in/jo%C3%A3o-paulo-maciel-do-nascimento-782857209/">
+    <a class="bg-primary text-primary flex items-center justify-center" target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-paulo-maciel-do-nascimento-782857209/">
         <i class="fab fa-linkedin"></i>
     </a>
     <a class="bg-primary text-primary flex items-center justify-center" href="mailto:paulo.j7.jp89@gmail.com">
